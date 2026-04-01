@@ -19,3 +19,4 @@ uv run poe flutter <args>
 ```
 
 For example, to analyze: `uv run poe flutter analyze lib/chat_screen.dart`
+
